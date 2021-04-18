@@ -2754,7 +2754,7 @@ na-tray-applet {-NaTrayApplet-icon-padding: 4px; -NaTrayApplet-icon-size: 16;}
  *********/
 
 .xfce4-panel.panel {
-	background-color: @panel_bg;
+	background-color: @bg_color;
 	text-shadow: none;
 	-gtk-icon-shadow: none;
 	font-weight: normal;
